@@ -10,8 +10,6 @@ project/plugins/project/
 .cache
 .lib/
 .settings/
-.classpath
-.project
 
 # Play Framework
 # https://www.playframework.com/documentation/2.6.x/Anatomy#Typical-.gitignore-file
